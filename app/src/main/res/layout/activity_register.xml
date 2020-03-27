@@ -65,7 +65,7 @@
             android:id="@+id/btn1_DIS"
             android:layout_width="300dp"
             android:layout_height="50dp"
-            android:text="Button" />
+            android:text="@string/BTN_DIS" />
 
         <Button
             android:layout_marginTop="10dp"
@@ -73,6 +73,6 @@
             android:id="@+id/btn2_DIS"
             android:layout_width="300dp"
             android:layout_height="50dp"
-            android:text="Button" />
+            android:text="@string/BTN2_DIS" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
