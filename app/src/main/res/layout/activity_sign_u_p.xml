@@ -23,18 +23,18 @@
             android:id="@+id/ET_main"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="320dp"
             android:ems="10"
+            android:hint="@string/hint_Main"
             android:inputType="textPersonName"
-           android:hint="@string/hint_Main"
-            android:textSize="20dp"
-            android:layout_marginTop="250dp"/>
+            android:textSize="20dp" />
 
         <Button
             android:id="@+id/btn_Main"
             android:layout_width="125dp"
+            android:layout_marginLeft="140dp"
             android:layout_height="wrap_content"
-
             android:layout_marginTop="20dp"
-            android:text="Button" />
+            android:text="@string/btn_Main" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
