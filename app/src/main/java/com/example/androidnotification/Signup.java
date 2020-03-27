@@ -67,7 +67,7 @@ public class Signup extends AppCompatActivity {
             PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
 
             NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID)
-                    .setSmallIcon(R.drawable.ic_launcher_background)
+                    .setSmallIcon(R.drawable.ic_notifications_black_24dp)
                     .setContentTitle("New Notification")
                     .setContentText("You are signing now")
                     .setPriority(NotificationCompat.PRIORITY_DEFAULT)
