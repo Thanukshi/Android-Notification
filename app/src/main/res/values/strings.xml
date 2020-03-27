@@ -8,4 +8,6 @@
     <string name="ET3_DIS">Telephone</string>
     <string name="ET4_DIS">Password</string>
     <string name="ET5_DIS">Re-type Password</string>
+    <string name="BTN_DIS">Register</string>
+    <string name="BTN2_DIS">Cancle</string>
 </resources>

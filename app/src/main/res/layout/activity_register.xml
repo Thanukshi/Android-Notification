@@ -20,49 +20,49 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <EditText
-            android:id="@+id/editText2"
+            android:id="@+id/ET1_DIS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name" />
+           android:hint="@string/ET1_DIS" />
 
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/ET2_DIS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name" />
+            android:hint="@string/ET2_DIS" />
 
         <EditText
-            android:id="@+id/editText3"
+            android:id="@+id/ET3_DIS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name" />
+            android:hint="@string/ET3_DIS" />
 
         <EditText
-            android:id="@+id/editText4"
+            android:id="@+id/ET4_DIS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name" />
+            android:hint="@string/ET4_DIS" />
 
         <EditText
-            android:id="@+id/editText5"
+            android:id="@+id/ET5_DIS"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name" />
+            android:hint="@string/ET5_DIS"/>
 
         <Button
             android:layout_marginLeft="50dp"
             android:layout_marginTop="45dp"
-            android:id="@+id/button"
+            android:id="@+id/btn1_DIS"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:text="Button" />
@@ -70,7 +70,7 @@
         <Button
             android:layout_marginTop="10dp"
             android:layout_marginLeft="50dp"
-            android:id="@+id/button2"
+            android:id="@+id/btn2_DIS"
             android:layout_width="300dp"
             android:layout_height="50dp"
             android:text="Button" />
