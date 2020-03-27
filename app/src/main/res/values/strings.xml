@@ -3,4 +3,9 @@
     <string name="topic">Notification</string>
     <string name="hint_Main">Name</string>
     <string name="btn_Main">Sign Up</string>
+    <string name="ET1_DIS">Name</string>
+    <string name="ET2_DIS">Email</string>
+    <string name="ET3_DIS">Telephone</string>
+    <string name="ET4_DIS">Password</string>
+    <string name="ET5_DIS">Re-type Password</string>
 </resources>
