@@ -10,4 +10,6 @@
     <string name="ET5_DIS">Re-type Password</string>
     <string name="BTN_DIS">Register</string>
     <string name="BTN2_DIS">Cancle</string>
+    <string name="ID1_MainJava">channel_name</string>
+    <string name="ID2_MainJava">channel_description</string>
 </resources>
