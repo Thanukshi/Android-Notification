@@ -12,4 +12,6 @@
     <string name="BTN2_DIS">Cancle</string>
     <string name="ID1_MainJava">channel_name</string>
     <string name="ID2_MainJava">channel_description</string>
+    <string name="channel_name">id1_MainJava</string>
+    <string name="channel_description">id2_MainJava</string>
 </resources>
